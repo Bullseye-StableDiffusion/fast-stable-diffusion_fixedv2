@@ -1,2 +1,2 @@
-https://github.com/TheLastBen/fast-stable-diffusion/raw/main/Dependencies/zstd_1.4.4%2Bdfsg-3ubuntu0.1_amd64.deb
-https://huggingface.co/TheLastBen/dependencies/resolve/main/db_deps.tar.zst
+https://github.com/Bullseye-StableDiffusion/fast-stable-diffusion_fixedv2/raw/main/Dependencies/zstd_1.4.4%2Bdfsg-3ubuntu0.1_amd64.deb
+https://huggingface.co/Bulldeawh/dependencies_fixedv2/resolve/main/db_deps.tar.zst
